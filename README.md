@@ -19,5 +19,6 @@ In this lab we will be Adding users and Managing Group Policy
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-1. 
+1. Allow Domain users to access remote desktop
+2. Run Powershell script to add 1000 users to our domain
 
