@@ -22,3 +22,4 @@ In this lab we will be Adding users and Managing Group Policy
 1. Allow Domain users to access remote desktop
 2. Run Powershell script to add 1000 users to our domain
 
+## Creating Users, Managing Group Policy, and Accounts
