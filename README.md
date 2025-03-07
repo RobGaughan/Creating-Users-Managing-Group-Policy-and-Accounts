@@ -53,4 +53,8 @@ Click on "Remote Desktop"
 Click on "Select users that can remotely access this PC"  
 ![4](https://github.com/user-attachments/assets/87fad318-4313-442d-9686-98934a81d4dd)
 
+![6](https://github.com/user-attachments/assets/4f7b37f6-dfce-4563-ad13-3f0514b45bdd)
+
+
+![5](https://github.com/user-attachments/assets/9c895dfc-6a48-4628-86ad-3d2fda6f8783)
 
