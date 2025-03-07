@@ -25,7 +25,7 @@ In this lab we will be Adding users and Managing Group Policy
 <h2>Deployment and Configuration Steps</h2>
 
 ### Allow Domain users to access remote desktop
-#### Connect to Client-1 
+#### Connect to Client-1 using admin jane_admin
 
 Find client-1 public IP address:  
 Virtual Machines > Client-1 > Networking > Network settings 
@@ -33,6 +33,10 @@ Virtual Machines > Client-1 > Networking > Network settings
 ![image](https://github.com/user-attachments/assets/35965722-d05f-4c90-be6c-a737d71cd161)
 
 
-login using Remote Desktop Connection
+login using Remote Desktop Connection 
+
+Make sure to login using domain context:
+Username: EXAMPLEDOMAIN\jane_admin  
+Password: LabPassword123
 
 ![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
