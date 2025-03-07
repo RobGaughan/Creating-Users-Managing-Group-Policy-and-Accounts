@@ -43,6 +43,12 @@ Password: LabPassword123
 
 
 Inside Client-1 Right click windows icon and lick "System"
+
 ![2](https://github.com/user-attachments/assets/aefe1fff-8043-477f-b5aa-df8eb360dd01)
+
+Click on "Remote Desktop"
+
+![3-cropped-resized](https://github.com/user-attachments/assets/656515c0-3079-4c75-a0b0-037804794971)
+
 
 
