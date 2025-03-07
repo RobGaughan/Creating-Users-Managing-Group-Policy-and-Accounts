@@ -39,4 +39,6 @@ Make sure to login using domain context:
 Username: EXAMPLEDOMAIN\jane_admin  
 Password: LabPassword123
 
-![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
+![1](https://github.com/user-attachments/assets/9c63688e-c4d1-4e88-8a89-51f1cc083a79)
+
+
