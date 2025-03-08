@@ -72,7 +72,7 @@ Now we have configured that all domain users can remotely access this client
 
 Open "Powershell ISE" 
 
-![7](https://github.com/user-attachments/assets/d97157ed-7114-4f74-af22-62edabe2d3a6)
+![9](https://github.com/user-attachments/assets/5bb15625-e544-4a0d-b6d0-3d7ac4a90851)
 
 Then copy and paste this script into Powershell ISE:
 
