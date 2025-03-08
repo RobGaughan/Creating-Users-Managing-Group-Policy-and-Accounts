@@ -126,6 +126,17 @@ while ($count -lt $NUMBER_OF_ACCOUNTS_TO_CREATE) {
 
 ```
 
+It should look like this: 
+
+![image](https://github.com/user-attachments/assets/9440e721-ea7f-49e7-8450-a8875f8e856b)
+
+Press the green run button to run the script"
+
+![8](https://github.com/user-attachments/assets/c42cf480-6785-4db6-b10d-782f3aea9de3)
+
+
+
+
 
 
 
