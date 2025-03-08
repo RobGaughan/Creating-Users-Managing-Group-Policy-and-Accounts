@@ -137,6 +137,7 @@ Press the green run button to run the script"
 
 Now the script will make 1000 random users with the password: LabPassword123
 
+### Verify that users were created
 
 
 
