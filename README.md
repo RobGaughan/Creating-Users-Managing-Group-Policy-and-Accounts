@@ -139,5 +139,12 @@ Now the script will make 1000 random users with the password: LabPassword123
 
 ### Verify that users were created
 
+Navigate to "Active Directory Users and Computers"  
+![10](https://github.com/user-attachments/assets/657fa35d-c384-453f-be04-7172b9d812f3)
+
+Navitage to _EMPLOYEES OU and verify user accounts were created
+
+![10](https://github.com/user-attachments/assets/293a683d-addd-4b31-adfe-571553ce2999)
+
 
 
