@@ -66,5 +66,15 @@ Now we have configured that all domain users can remotely access this client
 
 ### Create Users
 
+#### Login to Domain-Controller-1
+
+#### Create users using powershell Script
+
+Open "Powershell ISE" 
+
+![7](https://github.com/user-attachments/assets/d97157ed-7114-4f74-af22-62edabe2d3a6)
+
+
+
 
 
