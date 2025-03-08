@@ -150,4 +150,18 @@ Navitage to _EMPLOYEES OU and verify user accounts were created
 
 ### Creating an account lockout based on failed log in attempts
 
+Press windows key + r and type in "gpmc.msc" and click ok
+
+![image](https://github.com/user-attachments/assets/a57eba77-f82e-43f3-a10b-ff85729860a7)
+
+Next right click on "Default Domain Policy" and click "Edit"
+
+![11](https://github.com/user-attachments/assets/7b9459af-4d58-42ff-a79a-f3e423919cbe)
+
+This will bring up the Group Policy Management Editor navitgate to:
+Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Account Lockout Policy
+
+
+![12](https://github.com/user-attachments/assets/7a3935e9-074b-4635-ad9f-9b4cca6b92a2)
+
 
