@@ -70,9 +70,10 @@ Now we have configured that all domain users can remotely access this client
 
 #### Create users using powershell Script
 
-Open "Powershell ISE" 
+Open "Powershell ISE" and run it as Admin
 
-![9](https://github.com/user-attachments/assets/5bb15625-e544-4a0d-b6d0-3d7ac4a90851)
+![9](https://github.com/user-attachments/assets/0a24286e-2123-44f1-96b5-e22cd18f66ae)
+
 
 Then copy and paste this script into Powershell ISE:
 
