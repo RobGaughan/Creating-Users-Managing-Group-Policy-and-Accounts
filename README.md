@@ -164,4 +164,12 @@ Computer Configuration > Policies > Windows Settings > Security Settings > Accou
 
 ![12](https://github.com/user-attachments/assets/7a3935e9-074b-4635-ad9f-9b4cca6b92a2)
 
+Double click "Account Lockout Duration" and set it to 30mins
+
+![13](https://github.com/user-attachments/assets/1c1a57c2-ea38-4be0-bf81-667f3440e8c4)
+
+One we do that and click apply windows will automatically set the failed login attempts to 5 attempts before a lockout occurs
+
+![14](https://github.com/user-attachments/assets/30b92a95-90ee-4630-bc36-037435758359)
+
 
