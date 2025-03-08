@@ -134,8 +134,7 @@ Press the green run button to run the script"
 
 ![8](https://github.com/user-attachments/assets/c42cf480-6785-4db6-b10d-782f3aea9de3)
 
-
-
+Now the script will make 1000 random users with the password: LabPassword123
 
 
 
