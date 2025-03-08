@@ -21,6 +21,8 @@ In this lab we will be Adding users and Managing Group Policy
 
 1. Allow Domain users to access remote desktop
 2. Run Powershell script to add 1000 users to our domain
+3. create an account lockout based on failed log in attempts
+4. Enabling and Disabling users
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -146,6 +148,6 @@ Navitage to _EMPLOYEES OU and verify user accounts were created
 
 ![10](https://github.com/user-attachments/assets/30be5521-8a2a-4612-a5e7-f16943003a2a)
 
-
+### Creating an account lockout based on failed log in attempts
 
 
