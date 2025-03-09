@@ -268,8 +268,16 @@ press windows key + r and type "eventvwr.msc"
 
 ![image](https://github.com/user-attachments/assets/0bbef1ee-c697-474f-a4c9-4083b771f276)
 
+Using the event viewer lets try to find all of the failed login attempts we did earlier using baso.fit user account 
 
+We will look under:
+Windows logs > security > find "baso.fit"
 
+![image](https://github.com/user-attachments/assets/408e8c1c-14d0-4a83-9277-6cc761947c04)
+
+here we can view the "audit failures" that lead to the accound being locked earlier 
+
+![image](https://github.com/user-attachments/assets/5314206e-c359-4cb2-97d7-d7165e87de32)
 
 
 
