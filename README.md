@@ -239,3 +239,33 @@ Using the find function I searched for baso.fit > right click > reset passwword
 From here we can reset the password as well as unlocking the users account if that is nessary 
 
 ![image](https://github.com/user-attachments/assets/b2da47a3-572c-43c4-8679-8e45285d66ab)
+
+### Enabling and Disabling accounts 
+
+From the same search function and user as before 
+
+#### Disabling accounts
+
+Once you find the right user > Right click > disable account
+![18](https://github.com/user-attachments/assets/ba46e1d3-b104-440b-95de-d7db1fa328ad)
+
+Once the account is disabled the icon should change to this:
+
+![image](https://github.com/user-attachments/assets/2fd54fde-441a-47ea-a9c8-cb123641ce85)
+
+#### Enabling 
+Once you find the right user > Right click > enable account
+
+![19](https://github.com/user-attachments/assets/3e8eab61-e94b-467c-b118-6c0a5540ab62)
+
+Also will get this popup:
+
+![image](https://github.com/user-attachments/assets/2a0572ce-7fba-4fd3-a4e6-274d58019e52)
+
+
+
+
+
+
+
+
