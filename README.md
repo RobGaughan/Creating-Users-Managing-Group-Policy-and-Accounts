@@ -213,4 +213,15 @@ Once I exceeded the 5 failed attempts I got this messaage verifying that the gro
 
 ![image](https://github.com/user-attachments/assets/49b1d7d0-7d38-4608-b0b9-7a02775814f3)
 
+### Unlock the account 
 
+Now that we locked the account lets go unlock it so user baso.fit can log in successfully
+
+On Domain-Controller-1 find baso.fit in Active Directory Users and Computers  
+Go to properties > tick "Unlock account" > click apply
+
+![image](https://github.com/user-attachments/assets/0caa8a08-eea4-48b8-aa76-c1e01f8257db)
+
+Now when I reconnect with the baso.fit user and correct password I can sucessfully log on!
+
+![16](https://github.com/user-attachments/assets/5d3cfa06-e7d3-4a22-a807-573592a3640a)
