@@ -262,6 +262,13 @@ Also will get this popup:
 
 ![image](https://github.com/user-attachments/assets/2a0572ce-7fba-4fd3-a4e6-274d58019e52)
 
+### Observing Domaain Controller logs
+
+press windows key + r and type "eventvwr.msc"
+
+![image](https://github.com/user-attachments/assets/0bbef1ee-c697-474f-a4c9-4083b771f276)
+
+
 
 
 
