@@ -225,3 +225,5 @@ Go to properties > tick "Unlock account" > click apply
 Now when I reconnect with the baso.fit user and correct password I can sucessfully log on!
 
 ![16](https://github.com/user-attachments/assets/5d3cfa06-e7d3-4a22-a807-573592a3640a)
+
+Thats all for this lab we have successfully allowed users to remote in, added 1000 users leveraging a powershell script, and added a group policy.
