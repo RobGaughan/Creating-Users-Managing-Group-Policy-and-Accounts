@@ -21,8 +21,10 @@ In this lab we will be Adding users and Managing Group Policy
 
 1. Allow Domain users to access remote desktop
 2. Run Powershell script to add 1000 users to our domain
-3. create an account lockout based on failed log in attempts
-4. Enabling and Disabling users
+3. Create a Group Policy that will lock users out if they fail to login 5 times
+4. Reset users passwords
+5. Enabling and Disabling users
+
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -226,4 +228,14 @@ Now when I reconnect with the baso.fit user and correct password I can sucessful
 
 ![16](https://github.com/user-attachments/assets/5d3cfa06-e7d3-4a22-a807-573592a3640a)
 
-Thats all for this lab we have successfully allowed users to remote in, added 1000 users leveraging a powershell script, and added a group policy.
+### Resetting passwords
+
+In a real enviroment this is somthing that is done frequently so it is good information to know
+
+Using the find function I searched for baso.fit > right click > reset passwword
+
+![17](https://github.com/user-attachments/assets/fc73a4af-686f-41c6-9a58-d15d7203c9fa)
+
+From here we can reset the password as well as unlocking the users account if that is nessary 
+
+![image](https://github.com/user-attachments/assets/b2da47a3-572c-43c4-8679-8e45285d66ab)
