@@ -190,7 +190,8 @@ Virtual Machines > Client-1 > Networking > Network settings
 
 login using Remote Desktop Connection
 
-![15](https://github.com/user-attachments/assets/c7fe8d8b-2dd6-448a-aee7-dea4849daf7f)
+![15](https://github.com/user-attachments/assets/aa0dd5c3-2850-4e41-ba42-42ecdbc5bb0a)
+
 
 Using command prompt we can force the update by using the command "gpupdate /force"
 
@@ -203,7 +204,13 @@ I recived the following output and I verifyied the last time it was updated was 
 
 ![image](https://github.com/user-attachments/assets/861da9dd-6ba1-4907-a90f-8360e0566fb5)
 
-For testing purposes I will also test the group policy by using one of the randomly generated accounts and fail to login 5 times on purpose to test if the lock out works
+For testing purposes I will also test the group policy by using one of the randomly generated accounts and fail to login 5 times on purpose to test if the lock out works  
+I chose the random user baso.fit
 
+![image](https://github.com/user-attachments/assets/e5b4587d-3bc1-45cb-b8a8-f6eb6c272dfc)
+
+Once I exceeded the 5 failed attempts I got this messaage verifying that the group policy updated and works!
+
+![image](https://github.com/user-attachments/assets/49b1d7d0-7d38-4608-b0b9-7a02775814f3)
 
 
