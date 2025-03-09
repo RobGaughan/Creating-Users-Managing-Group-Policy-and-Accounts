@@ -279,7 +279,7 @@ here we can view the "audit failures" that lead to the accound being locked earl
 
 ![image](https://github.com/user-attachments/assets/5314206e-c359-4cb2-97d7-d7165e87de32)
 
-
+Thats all for this lab we allowed remote connections, added 1000 users leveraging a powershell script, and created a group policy!
 
 
 
