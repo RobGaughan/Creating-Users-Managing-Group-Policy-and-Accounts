@@ -190,4 +190,5 @@ Virtual Machines > Client-1 > Networking > Network settings
 
 login using Remote Desktop Connection
 
-![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
+![15](https://github.com/user-attachments/assets/c7fe8d8b-2dd6-448a-aee7-dea4849daf7f)
+
