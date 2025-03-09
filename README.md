@@ -177,7 +177,8 @@ One we do that and click apply windows will automatically set the failed login a
 
 ### Updating the group Policy 
 
-Option 1 - Wait around 90 mins for the group policy to propagate 
+Option 1 - Wait around 90 mins for the group policy to propagate  
+
 Option 2 - Force update on  the Client
 
 Since we don't want to wait 90 mins for the group policy ot propagate we will force the update manually 
