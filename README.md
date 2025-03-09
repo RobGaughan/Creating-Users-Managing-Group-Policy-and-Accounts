@@ -173,7 +173,7 @@ One we do that and click apply windows will automatically set the failed login a
 ![14](https://github.com/user-attachments/assets/30b92a95-90ee-4630-bc36-037435758359)
 
 
-### Updating The group Policy 
+### Updating the group Policy 
 
 Option 1 - Wait around 90 mins for the group policy to propagate 
 Option 2 - Force update on  the Client
