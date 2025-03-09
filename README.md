@@ -192,3 +192,18 @@ login using Remote Desktop Connection
 
 ![15](https://github.com/user-attachments/assets/c7fe8d8b-2dd6-448a-aee7-dea4849daf7f)
 
+Using command prompt we can force the update by using the command "gpupdate /force"
+
+![image](https://github.com/user-attachments/assets/b76f4fc4-a106-445b-9035-50d99d2848e8)
+
+#### Verifying the group policy updated
+
+I ran the command "gpresult /r"   
+I recived the following output and I verifyied the last time it was updated was only a few mins ago I took the screen shot the VM's Local time was 1:41 am
+
+![image](https://github.com/user-attachments/assets/861da9dd-6ba1-4907-a90f-8360e0566fb5)
+
+For testing purposes I will also test the group policy by using one of the randomly generated accounts and fail to login 5 times on purpose to test if the lock out works
+
+
+
